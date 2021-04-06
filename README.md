@@ -3,10 +3,6 @@ Hello world web-server, using Node.js
 
 The node_modules folder is already included, to get around firewall issues. To run the project open a terminal, navigate to the project root, and run 
 ```
-$ npm run start 
-```
-or, if that still has an error, run
-```
 $ node app.js
 ```
 
